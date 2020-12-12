@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Multi Hieght Tripod Golf Tee
+# OctoTee
 
-You can use the [editor on GitHub](https://github.com/octotee/octotee.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### EASY TO USE
+#### Just throw it on the green!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You don't have to struggle to pin your golf tee into hard ground especially in the winter season.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### MULTI HIEHGT TRIPOD
+#### Fit golf tee height to your swing conditions on the spot!
 
-```markdown
-Syntax highlighted code block
+The height of the golf tees can meet your needs in 3 different ways.
 
-# Header 1
-## Header 2
-### Header 3
+### IMPROVE YOUR SWING RESULT
 
-- Bulleted
-- List
+This golf tee helps you to aim the right direction where you want to deliver your ball into just by putting the pod of golf tee accordingly. It also helps you to put your driver squarely at address.
 
-1. Numbered
-2. List
+#### Unbreakable durability
 
-**Bold** and _Italic_ and `Code` text
+This golf tee is made of high-quality polyethylene, so it can increase the service life of the tee. One tee can be reused hundreds of times.
 
-[Link](url) and ![Image](src)
-```
+#### Great portability
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This golf tee is very lightweight for greater portability. It's also easy to carry in your porket or pouch as it is flexible enough to bend without demage.
 
-### Jekyll Themes
+#### Protect your ball and club
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/octotee/octotee.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This soft golf tee can avoid your balls and driver from quick scratch, providing good care for your golf equipment.
 
-### Support or Contact
+#### Easy to find
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This golf tee is bright red, a high contrast color with green grass, so that you can easily find your tee after swing.
+
+#### Great design
+
+This golf tee is inspired from multiple legs and suckers of octopus and has modern and beautiful design.
